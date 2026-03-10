@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Acme Corp",
+    "title": "Marketing Manager",
+    "date": "2025-01-15",
+    "status": "Interview",
+    "link": "https://acmecorp.com/jobs",
+    "notes": "Had a great first call with the recruiter. Second interview next week."
+  },
+  {
+    "company": "Bright Ideas Inc",
+    "title": "Content Strategist",
+    "date": "2025-01-18",
+    "status": "Applied",
+    "link": "",
+    "notes": "Applied through LinkedIn. Waiting to hear back."
+  },
+  {
+    "company": "NextStep Technologies",
+    "title": "Project Coordinator",
+    "date": "2025-01-20",
+    "status": "Rejected",
+    "link": "https://nextstep.io/careers",
+    "notes": "Got a rejection email after 2 weeks. They went with internal candidate."
+  },
+  {
+    "company": "Sunrise Health",
+    "title": "Operations Analyst",
+    "date": "2025-01-22",
+    "status": "Offer",
+    "link": "",
+    "notes": "Received offer! Salary $72k. Deadline to accept is Jan 30th."
+  },
+  {
+    "company": "Global Finance Partners",
+    "title": "Business Analyst",
+    "date": "2025-01-25",
+    "status": "Applied",
+    "link": "https://gfp.com/careers",
+    "notes": "Referral from Sarah. Application submitted via their portal."
+  },
+  {
+    "company": "TechForward",
+    "title": "Product Manager",
+    "date": "2025-01-28",
+    "status": "Interview",
+    "link": "",
+    "notes": "Phone screen done. Technical interview scheduled for Feb 5th."
+  }
+]
